@@ -1,0 +1,9 @@
+{
+  "name": "MAATIPUTRA",
+  "description": "AI-Powered Smart Agriculture Platform for Indian Farmers using Gemini Pro & Vision.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
